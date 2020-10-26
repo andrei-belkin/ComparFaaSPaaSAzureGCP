@@ -1,4 +1,4 @@
-# ComparGCPaAzureFaaS
+# ComparFaaSPaaSAzureGCP
 
 **Sujet veille 2 :**
 Comparatif entre les services de déploiement d'application :
