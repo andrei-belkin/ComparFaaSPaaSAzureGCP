@@ -1,5 +1,11 @@
 # ComparFaaSPaaSAzureGCP
 
+**Trello :** https://trello.com/b/zc11qX8i/comparfaaspaasazuregcp
+
+**Documentation de l'apprentissage :** https://github.com/andrei-belkin/ComparFaaSPaaSAzureGCP/wiki/Documentation-d'apprentissage
+
+# Plan d'action
+
 **Sujet veille 2 :**
 Comparatif entre les services de déploiement d'application :
 
