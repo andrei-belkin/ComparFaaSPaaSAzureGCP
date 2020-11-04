@@ -7,12 +7,7 @@
 # Plan d'action
 
 **Sujet veille 2 :**
-Comparatif entre les services de déploiement d'application :
-
-    - FaaS
-    - PaaS
-    
-des fournisseurs de services :
+Comparatif entre les fournisseurs de services :
 
     - Microsoft Azure
     - Google Cloud Platform
